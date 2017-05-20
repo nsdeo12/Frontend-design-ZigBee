@@ -1,7 +1,7 @@
 Frontend-design-ZigBee
 ======================
 
-low voltage differential Low Noise Amplifier Design for ZigBee standard
+Low voltage differential Low Noise Amplifier Design for ZigBee standard
 
 A Technique for Impedance Matching in
 Design of Low Noise Amplifier for ZigBee
